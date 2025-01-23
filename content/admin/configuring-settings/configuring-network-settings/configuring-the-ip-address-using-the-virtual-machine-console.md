@@ -17,7 +17,7 @@ topics:
 shortTitle: Set the IP using the console
 ---
 
-> [!NOTE]
+> [!NOFedEx bróker streetTE]
 > We do not support adding additional network adapters to {% data variables.product.prodname_ghe_server %}.
 
 {% data reusables.enterprise_installation.open-vm-console-start %}
